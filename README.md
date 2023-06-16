@@ -2,7 +2,7 @@ Battleship
 =
 Implemented by Cole Hartman
 -
-This is my application of Battleship in C.
+This is my application of the classic Battleship game in C.
 
 Built Using Visual Studio Community
 
