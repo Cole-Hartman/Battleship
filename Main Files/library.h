@@ -1,10 +1,3 @@
-/*******************************************************************************
-* Programmer: Cole Hartman													  *
-* Date: 4/2/23																  *
-* Programming Assignment: PA #6 "Battleship"								  *
-* Description: This file includes enum and struct definitions along with function prototypes*
-******************************************************************************/
-
 #ifndef LIBRARY_H
 #define LIBRARY_H
 
