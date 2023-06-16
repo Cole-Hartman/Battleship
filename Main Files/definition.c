@@ -1,10 +1,3 @@
-/*******************************************************************************
-* Programmer: Cole Hartman													  *
-* Date: 4/2/23																  *
-* Programming Assignment: PA #6 "Battleship"								  *
-* Description: This file houses all of the function definitions 			  *
-******************************************************************************/
-
 #include "library.h"
 
 /******************************************************************************
